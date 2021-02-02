@@ -1,0 +1,8 @@
+IMAGE MIRROR
+
+Project Description:  This program reads in an input GIF image, then flips (mirrors) the image 
+and outputs the result image file to "output.gif".
+
+This program uses methods from the ImageLib class.
+
+See test1.GIF for an example input image and output.GIF for the result.

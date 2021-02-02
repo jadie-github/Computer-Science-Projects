@@ -1,0 +1,10 @@
+CREATE FRACTAL IMAGE (C++)
+
+Project Description: This project performs a recursive fractal operation on an input GIF image. The driver class reads in a GIF image file 
+and creates a new GIF image that consists of a smaller-sized version of the original image on the upper left orner, a smaller-sized 
+flipped version of the original image on the bottom right corner, and uses the same pattern to draw to the remaining upper right and lower 
+left corners of the image until there is no more space (pixels) to be allocated.
+
+This program uses methods from the Image and Rectangle classes.
+
+See test3.GIF to see the example input and output.GIF to see the result.

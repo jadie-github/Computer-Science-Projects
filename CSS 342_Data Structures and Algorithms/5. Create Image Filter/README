@@ -1,0 +1,9 @@
+CREATE IMAGE FILTER (C++)
+
+Project Description: This program takes in a GIF input image, finds segments of the image where there are similar colors, 
+groups similar pixels together to create a more "toned down" version of the image with less colors. This can be used as a filter
+for pictures on applications like Snapchat, Instagram, Facebook, etc.
+
+This program uses methods from the Container and Image classes.
+
+See test4.GIF for an example input image and output.GIF for the result.
