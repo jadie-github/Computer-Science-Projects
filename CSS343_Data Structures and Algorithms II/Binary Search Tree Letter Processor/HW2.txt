@@ -1,0 +1,5 @@
+This is the second course in a two-part sequence that integrates mathematical principles with programming concepts. Topics to be covered include:
+Abstract data types - trees, priority queues, graphs, heaps, and tables
+Object-oriented programming and design, including inheritance and polymorphism
+Modeling computation - regular expressions, finite state machines, context-free grammars, and Turing machines
+Algorithm development and analysis - Huffman's algorithm, Dijkstra's algorithm, etc.
