@@ -1,0 +1,19 @@
+Random Grammar Generator (java)
+
+Project Description: this program reads an input file with a grammar in Backus-Naur Form (BNF) and allows the user to 
+randomly generate elements of the grammar.
+
+A grammar is specified as a sequence of strings, each of which represents the rules for a nonterminal symbol.  
+Each string will be of the form:
+
+<nonterminal symbol>::= <rule> | <rule> | <rule> | … | <rule>
+
+This is the standard BNF format of a nonterminal symbol on the left-hand-side and a series of rules separated by vertical bar characters 
+(“|”) on the right-hand side.  If there is only one rule for a particular nonterminal, then there will be no vertical bar characters.  
+BNF productions use the characters “::=” to separate the symbol from the rules.There will be exactly one occurrence of “::=” per string.  
+The text appearing before the “::=” is a nonterminal symbol.  Often we surround nonterminal symbols with the characters “<” and “>”, 
+but this will not always be the case.  The text appearing after the “::=” will be a nonempty series of rules separated by vertical bar 
+characters (“|”).  Each of these rules will have a series of tokens (always at least one) separated and potentially surrounded by 
+whitespace.  There might be duplicates among the rules because including more than one copy of a rule would make it more likely to be 
+selected.  There could be any amount of whitespace surrounding tokens.  Any token that appears to the left of a “::=” in the grammar 
+is considered a nonterminal.  All other tokens are considered terminals.
