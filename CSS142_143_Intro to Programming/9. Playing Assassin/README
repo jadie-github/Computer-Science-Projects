@@ -1,0 +1,11 @@
+Playing Assassin (java)
+
+Project Description: This program helps you manage a game of assassin. Each person playing assassin has a particular target that 
+they are trying to assassinate.  One of the things that makes the game more interesting to play is that initially each person knows 
+only who they are assassinating (they don't know who is trying to assassinate them nor do they know who other people are trying to 
+assassinate).  You are working on a program for the “game administrator” who needs to keep track of who is stalking whom and the 
+history of who killed whom.
+
+Use names.txt, names1.txt,names2.txt, or names3.txt to choose the characters in this game. You can also make your own list of names.
+
+Happy hunting!

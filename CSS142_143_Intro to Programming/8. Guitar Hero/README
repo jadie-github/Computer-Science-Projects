@@ -1,0 +1,13 @@
+Guitar Hero (java)
+
+Project Description: This project mimics a guitar with only 37 pitches. Users can play notes on their keyboards 
+with the notes corresponding to a key mapping input (see string.txt). Users can also choose song samples for the program to read and play out.
+The song samples need to be in .txt form, and each letter has to correspond to a note in the key mapping.
+
+GuitarHero.java is the main program to play all the notes. GuitarLite.java is a mini version of GuitarHero.java where you can only 
+play 2 notes (pressing A and C on the keyboard). If you want to play a pre-written song, use PlayThatTune.java, and select a .txt file 
+from the "Tunes" folder. To record your playing, use RecordThatTune.java.
+
+Use Test37.java to test the program.
+
+Have fun riffing!

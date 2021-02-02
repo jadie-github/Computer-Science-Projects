@@ -1,0 +1,11 @@
+Evil Hangman Game (java) 
+
+Project Description: This program mimics a game of hangman.  But this won’t be any ordinary game of hangman.  
+Our hangman program is going to cheat. In a normal game of hangman, the computer picks a word that the user is supposed to guess.  
+In our game of hangman, the computer is going to delay picking a word until it is forced to.  As a result, at any given point in time 
+there will be a set of words that are currently being used by the computer.  Each of those words will have the same pattern to be 
+displayed to the user. This way, the user will lose faster, and definitely won't win most of the time.
+
+Use dictionary.txt for a full list of vocab. Use dictionary2.txt for a mini version of the vocabs.
+
+Happy guessing (incorrectly)!
