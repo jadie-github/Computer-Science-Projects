@@ -1,0 +1,11 @@
+Image Modifier (C++)
+Project Description: A digital image is composed of a two-dimensional array of pixels. If the images has r rows and c columns, then there are r*c pixels in the image. Each pixel has a location and value. The location is given by the row and column of the pixel. In RGB imaging (red, green, blue), each pixel in a color image has three intensities, one for red, one for green, and one for blue (these are the primary colors of light). Three bytes (0 to 255) are used for each pixel in a color image. Images take values (call the intensity) from 0 to 255 (1 byte = 8 bits of information). 0 is the darkest black and 255 is the brightest white.
+
+CREATE FRACTAL IMAGE (C++)
+Project Description: This project performs a recursive fractal operation on an input GIF image. The driver class reads in a GIF image file and creates a new GIF image that consists of a smaller-sized version of the original image on the upper left orner, a smaller-sized flipped version of the original image on the bottom right corner, and uses the same pattern to draw to the remaining upper right and lower left corners of the image until there is no more space (pixels) to be allocated.
+
+CREATE IMAGE FILTER (C++)
+Project Description: This program takes in a GIF input image, finds segments of the image where there are similar colors, groups similar pixels together to create a more "toned down" version of the image with less colors. This can be used as a filter for pictures on applications like Snapchat, Instagram, Facebook, etc.
+
+IMAGE MIRROR
+Project Description: This program reads in an input GIF image, then flips (mirrors) the image and outputs the result image file to a new file "output.gif".
