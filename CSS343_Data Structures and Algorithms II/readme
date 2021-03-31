@@ -1,0 +1,11 @@
+Binary Number Calculator (c++)
+Project Description: The main part of this assignment is to create a class called Binary implementing an abstract data type for binary numbers of arbitrary length (no limit to the number of bits).
+
+Binary Search Tree Letter Processor (c++)
+Project Description: In this program, I implement a binary search tree that sorts letters in a text file and implement letter operations.
+
+Djikstra’s Algorithm (c++) 
+Project Description: In this program, I implement Dijkstra's algorithm for shortest paths using an adjacency list representation.
+
+Inventory Shop / Collectibles store simulation (c++)
+Project Description: A local collectibles store wishes to automate their inventory tracking system. I implement a program that represents a tracking system for all the items, transaction histories, and customer information.
